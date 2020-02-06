@@ -30,4 +30,4 @@ This Arduino based project will focus on replicating police lights patterns usin
 
 <img src="Repository Images/Arduido Schematics.JPG" width="800" height="550">
 
-<img src="Repository Images/Arduino Prototype.JPG" width="800" height="550">
+<img src="Repository Images/Arduino Prototype.JPG" width="800" height="450">
