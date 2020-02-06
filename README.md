@@ -17,3 +17,6 @@ This Arduino based project will focus on replicating police lights patterns usin
   - 4x 220 OHM Resistor
   
   **Resistor Reference**
+
+ <img src="Repository Images/Resistor-Chart.png" width="700" height="600">
+ 
