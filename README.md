@@ -20,3 +20,8 @@ This Arduino based project will focus on replicating police lights patterns usin
 
  <img src="Repository Images/Resistor-Chart.png" width="700" height="600">
  
+ **Software:**
+- [Arduino API Downloads](https://www.arduino.cc/en/main/software)
+- [Windows Installation Guide](https://www.arduino.cc/en/guide/windows)
+- [IOS Installation Guide](https://www.arduino.cc/en/guide/macOSX)
+- [Arduino Uno Setup Guide](https://www.arduino.cc/en/Guide/ArduinoUno)
