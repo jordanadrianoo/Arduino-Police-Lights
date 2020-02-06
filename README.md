@@ -15,3 +15,5 @@ This Arduino based project will focus on replicating police lights patterns usin
   - 2x Red LEDs
   - 2x Blue LEDs
   - 4x 220 OHM Resistor
+  
+  **Resistor Reference**
