@@ -28,4 +28,4 @@ This Arduino based project will focus on replicating police lights patterns usin
 
 ## Arduino Schematics
 
-<img src="Repository Images/Arduido Schematics.JPG" width="800" height="650">
+<img src="Repository Images/Arduido Schematics.JPG" width="800" height="550">
