@@ -34,7 +34,7 @@ Arduino Blueprint
 Arduino Schematics
 <img src="Repository Images/Arduino Schematics.JPG" width="800" height="500">
 
-
+Arduino Prototype
 <img src="Repository Images/Arduino Prototype.jpg" width="800" height="550">
 
 ## uploading to the Arduino
