@@ -27,9 +27,11 @@ This Arduino based project will focus on replicating police lights patterns usin
 - [Arduino Uno Setup Guide](https://www.arduino.cc/en/Guide/ArduinoUno)
 
 ## Arduino Blueprints
+
 <img src="Repository Images/Arduido Blueprints.JPG" width="800" height="500">
 
 ## Arduino Schematics
+
 <img src="Repository Images/Arduino Schematics.JPG" width="800" height="500">
 
 ## Arduino Prototype
