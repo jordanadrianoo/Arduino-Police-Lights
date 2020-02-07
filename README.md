@@ -28,6 +28,8 @@ This Arduino based project will focus on replicating police lights patterns usin
 
 ## Ardunio Hardware
 
+The Arduino section is drawn up to mock the fondation of a toy police car. Note the buttons are optional. The buttons are placed to represent seats in a car.  
+
 ### Arduino Blueprints
 
 <img src="Repository Images/Arduido Blueprints.JPG" width="800" height="500">
