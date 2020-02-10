@@ -6,7 +6,7 @@ This Arduino based project will focus on replicating police lights patterns usin
 
 ## Getting Started
 
- **Prerequisites:**
+ **Prerequisites -**
  
  **HardWare:**
   - Arduino Uno
