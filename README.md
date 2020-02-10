@@ -8,7 +8,7 @@ This Arduino based project will focus on replicating police lights patterns usin
 
  **Prerequisites:**
  
- - Arduino Uno
+  - Arduino Uno
   - USB type B
   - Breadboard
   - Jumper Wires
